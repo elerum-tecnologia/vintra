@@ -4,6 +4,7 @@ import { ArrowRight } from 'lucide-react'
 import { cn } from '@/lib/utils'
 
 export type BlogPost = {
+  slug: string
   image: { src: string; alt: string }
   category: string
   title: string
