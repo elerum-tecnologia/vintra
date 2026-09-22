@@ -1,0 +1,16 @@
+{
+	"fieldSets": [
+		{
+			"label": "Conteúdo",
+			"fields": [
+				{
+					"dataType": "boolean",
+					"defaultValue": true,
+					"label": "Mostrar descrição",
+					"name": "showDescription",
+					"type": "checkbox"
+				}
+			]
+		}
+	]
+}
